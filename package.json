@@ -1,0 +1,26 @@
+{
+  "name": "mindcruft-website",
+  "version": "0.0.1",
+  "description": "Website for MindCruft Minecraft Server",
+  "main": " ",
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/128keaton/MindCruftWebsite.git"
+  },
+  "keywords": [
+    "mindcruft",
+    "website"
+  ],
+  "author": "Keaton Burleson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/128keaton/MindCruftWebsite/issues"
+  },
+  "homepage": "https://github.com/128keaton/MindCruftWebsite#readme",
+  "dependencies": {
+    "mc-server-status": "^0.2.0"
+  }
+}
