@@ -23,7 +23,7 @@ define(["jquery", 'font-awesome'], function ($) {
                         .toggleClass('fa-spinner')
                         .toggleClass(`fa-${server.online ? 'check' : 'times'}`);
 
-                    statusWrapper.find('.server-status-text').text(server.online ? 'Online' : 'Offline')
+                    statusWrapper.find('.server-status-text').text(server.online ? 'Online' : 'Offline');
 
                     if (server.online) {
                         motd.text('Message of the Day: ' + server.motd);
