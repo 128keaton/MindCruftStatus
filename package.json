@@ -21,6 +21,10 @@
   },
   "homepage": "https://github.com/128keaton/MindCruftWebsite#readme",
   "dependencies": {
-    "mc-server-status": "^0.2.0"
+    "@fortawesome/fontawesome-free": "^5.8.2",
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {
+    "requirejs": "^2.3.6"
   }
 }
